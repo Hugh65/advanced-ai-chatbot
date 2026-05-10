@@ -1,15 +1,28 @@
 # 🤖 Advanced AI Chatbot
 
-A Python-based AI chatbot that simulates intelligent conversations using rule-based logic.
+This is a Python-based AI chatbot that simulates intelligent conversation using rule-based logic and dynamic responses.
 
-## 🚀 Features:
-- Smart conversation handling
-- Study & productivity tips
-- Time-based responses
-- Mood-based AI replies
+---
 
-## 🛠 Tech Stack:
-- Python
+## 🚀 Features
+- Smart conversational responses  
+- Study & productivity tips  
+- Time-based interaction system  
+- Simple AI logic chatbot design  
 
-## 🎯 Purpose:
-This project is built for learning AI logic and improving programming skills.
+---
+
+## 🛠 Tech Used
+- Python  
+
+---
+
+## 🎯 Project Goal
+This project is built to understand AI logic systems, improve Python programming skills, and simulate a basic intelligent assistant.
+
+---
+
+## ▶️ How to Run
+1. Download the file `advanced_ai_chatbot.py`  
+2. Open terminal or Acode/Python environment  
+3. Run command:
